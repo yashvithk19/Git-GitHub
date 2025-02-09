@@ -156,31 +156,7 @@ git rm --cached filename
    ```sh
    git clone https://github.com/your-username/forked-repository.git
    ```
-
----
-
-## 8️⃣ Troubleshooting
-### Check Remote Repository URL
-```sh
-git remote -v
-```
-
-### Fix "fatal: remote origin already exists"
-```sh
-git remote remove origin
-```
-Then, re-add the correct remote:
-```sh
-git remote add origin https://github.com/your-username/repository-name.git
-```
-
-### Fix "Permission Denied (Publickey)" Error
-- Generate a new SSH key:
-  ```sh
-  ssh-keygen -t rsa -b 4096 -C "your-email@example.com"
-  ```
-- Add the SSH key to GitHub under **Settings → SSH and GPG Keys**.
-
+   
 ---
 
 If you found this guide helpful, don't forget to ⭐ this repository! 😊
