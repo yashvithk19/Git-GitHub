@@ -1,7 +1,7 @@
 # Learn Git & GitHub from Scratch
 
 ## Introduction
-This repository serves as a beginner-friendly guide to learning Git and GitHub from scratch. Follow the steps below to install Git, configure it, and use it to manage your projects with GitHub.
+This repository serves as a beginner-friendly guide to learning Git and GitHub from scratch. Follow the steps and use it to manage your projects with GitHub.
 
 ---
 
@@ -25,7 +25,7 @@ This repository serves as a beginner-friendly guide to learning Git and GitHub f
    git --version
    ```
 
-### Linux (Ubuntu/Debian):
+### Linux (Ubuntu):
 1. Install Git via terminal:
    ```sh
    sudo apt update
